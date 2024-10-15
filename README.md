@@ -10,7 +10,7 @@ Based off [ViewControllerTransitionExample](https://github.com/danielmgauthier/V
 
 ### Demo
 
-![Demo](Demo.gif)
+Coming soon...
 
 ### Usage
 
