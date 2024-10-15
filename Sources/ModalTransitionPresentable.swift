@@ -34,7 +34,7 @@ public extension ModalTransitionPresentable {
 
 // MARK: - Default implementation
 
-extension ModalTransitionPresentable {
+public extension ModalTransitionPresentable {
     
     var dismissalHandlingScrollView: UIScrollView? { nil }
 
